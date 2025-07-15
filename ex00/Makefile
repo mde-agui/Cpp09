@@ -9,7 +9,7 @@ BLUE = \033[0;34m
 RESET = \033[0m
 
 all: $(NAME)
-	@/bin/echo -e "$(GREEN)MutantStack is ready to iterate!$(RESET)"
+	@/bin/echo -e "$(GREEN)BitcoinExchange is ready to process!$(RESET)"
 
 $(NAME): $(OBJ)
 	@/bin/echo -ne "$(BLUE)Linking.$(RESET)\r"
