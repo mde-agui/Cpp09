@@ -233,7 +233,6 @@ Each exercise has its own `Makefile` with the following commands:
 - **Evaluation**:
   - Outputs match subject requirements (e.g., `date => value = result` in Ex00, RPN results in Ex01, sorted sequences and timing in Ex02).
   - Adheres to 42’s Norminette equivalent (manual checks for line length, naming).
-- **Makefile Issue**: The Ex00 `Makefile` incorrectly references `MutantStack` (likely from Module 08). Update the success message to `BitcoinExchange is ready to process!`.
 
 ## 📜 License
 
